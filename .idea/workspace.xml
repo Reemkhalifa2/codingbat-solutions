@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
+
   <component name="ChangeListManager">
     <list default="true" id="fb461e90-9e32-4e87-b9f3-e51f6373b6e5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +23,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+
     "last_opened_file_path": "C:/Users/reem1/Downloads/Spark2Code/codingbat-solutions"
   }
 }]]></component>
