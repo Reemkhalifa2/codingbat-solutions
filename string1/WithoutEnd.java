@@ -5,4 +5,3 @@ public String withoutEnd(String str) {
   }
   return "";
 }
-
