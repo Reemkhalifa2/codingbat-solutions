@@ -1,5 +1,4 @@
 
-ECHO is on.
 =======
 public String comboString(String a, String b) {
   if (a.length() > b.length()){
@@ -8,6 +7,3 @@ public String comboString(String a, String b) {
     return a+b+a;
   }
 }
-
-=======
-
