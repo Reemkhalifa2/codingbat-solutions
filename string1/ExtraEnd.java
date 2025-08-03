@@ -8,4 +8,3 @@ public String extraEnd(String str) {
   }
   return str+str+str;
 }
-

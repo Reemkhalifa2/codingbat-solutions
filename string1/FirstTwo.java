@@ -7,4 +7,3 @@ public String firstTwo(String str) {
   }
   return str;
 }
-
