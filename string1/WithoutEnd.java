@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ECHO is on.
 =======
 public String withoutEnd(String str) {
@@ -7,4 +7,3 @@ public String withoutEnd(String str) {
   }
   return "";
 }
->>>>>>> fbe972ef1c4d09f2db4dbdd2b7698deafc960733

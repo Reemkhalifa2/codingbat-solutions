@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ECHO is on.
 =======
 public String nonStart(String a, String b) {
@@ -6,4 +6,3 @@ public String nonStart(String a, String b) {
   
   
 }
->>>>>>> fbe972ef1c4d09f2db4dbdd2b7698deafc960733

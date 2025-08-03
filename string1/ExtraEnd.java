@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ECHO is on.
 =======
 public String extraEnd(String str) {
@@ -8,4 +8,3 @@ public String extraEnd(String str) {
   }
   return str+str+str;
 }
->>>>>>> fbe972ef1c4d09f2db4dbdd2b7698deafc960733
